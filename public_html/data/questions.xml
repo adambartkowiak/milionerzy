@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question>
+        <stage><![CDATA[1]]></stage>
+        <title><![CDATA[tresc pytania 1]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 1]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 1]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 1]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 1]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 1]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 1]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 1]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[2]]></stage>
+        <title><![CDATA[tresc pytania 2]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 2]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 2]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 2]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 2]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 2]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 2]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 2]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[3]]></stage>
+        <title><![CDATA[tresc pytania 3]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 3]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 3]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 3]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 3]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 3]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 3]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 3]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[4]]></stage>
+        <title><![CDATA[tresc pytania 4]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 4]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 4]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 4]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 4]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 4]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 4]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 4]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[5]]></stage>
+        <title><![CDATA[tresc pytania 5]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 5]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 5]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 5]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 5]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 5]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 5]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 5]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[6]]></stage>
+        <title><![CDATA[tresc pytania 6]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 6]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 6]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 6]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 6]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 6]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 6]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 6]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[7]]></stage>
+        <title><![CDATA[tresc pytania 7]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 7]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 7]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 7]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 7]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 7]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 7]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 7]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[8]]></stage>
+        <title><![CDATA[tresc pytania 8]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 8]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 8]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 8]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 8]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 8]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 8]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 8]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[9]]></stage>
+        <title><![CDATA[tresc pytania 9]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 9]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 9]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 9]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 9]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 9]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 9]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 9]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[10]]></stage>
+        <title><![CDATA[tresc pytania 10]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 10]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 10]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 10]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 10]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 10]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 10]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 10]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[11]]></stage>
+        <title><![CDATA[tresc pytania 11]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 11]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 11]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 11]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 11]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 11]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 11]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 11]]></answer>
+        </answerBAD>
+    </question>
+    <question>
+        <stage><![CDATA[12]]></stage>
+        <title><![CDATA[tresc pytania 12]]></title>
+        <answerOK>
+            <answer><![CDATA[odp dobra numer jeden do pytania 12]]></answer>
+            <answer><![CDATA[odp dobra numer dwa do pytanai 12]]></answer>
+        </answerOK>
+        <answerBAD>
+            <answer><![CDATA[odp zla numer jeden do pytania 12]]></answer>
+            <answer><![CDATA[odp zla numer dwa do pytania 12]]></answer>
+            <answer><![CDATA[odp zla numer trzy do pytania 12]]></answer>
+            <answer><![CDATA[odp zla numer cztery do pytania 12]]></answer>
+            <answer><![CDATA[odp zla numer piec do pytania 12]]></answer>
+        </answerBAD>
+    </question>
+</questions>
